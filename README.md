@@ -1,10 +1,8 @@
 # DS_projectD3 - Estonian vehicles
 
-Rait Pommer
+Rait Pommer, Cardo Kenten Ross, Liis Reimand
 
-Cardo Kenten Ross
-
-Liis Reimand
+Poster - https://drive.google.com/drive/folders/1OMuSZHhgtR5WwTC24lvLkOCIFsoqtJF5?usp=share_link
 
 Download database from https://drive.google.com/drive/folders/1V2m38jqz776dNN1lz_bLe9mY7d5cSMhl?usp=sharing (original)
 
